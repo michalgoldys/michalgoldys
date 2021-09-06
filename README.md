@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michalgoldys
-- 👀 I’m interested in java programint from almost always. I was in middle-technical shool with IT profile. Learned much, and still developing myslef into this genere.
-- 🌱 I’m currently learning Java/Linux
+- 👀 I'm interested in system administration and networking since my youngest years. I was in a middle-technical school with an IT profile, and currently, I'm studying at the Polish-Japanese Academy of Information Technology. Also, I'm developing myself as DevOps.
+- 🌱 Currently, I'm working as a DevOps Engineer, and I'm learning about tools like Chef/Ruby/Kubernetes/Terraform/Linux/Bash.
 - 📫 How to reach me linkedIn:
 
 https://www.linkedin.com/in/micha%C5%82-g-47a12a1aa/

@@ -3,7 +3,7 @@
 - 🌱 Currently, I'm working as a DevOps Engineer, and I'm learning about tools like Chef/Ruby/Kubernetes/Terraform/Linux/Bash.
 - 📫 How to reach me linkedIn:
 
-https://www.linkedin.com/in/micha%C5%82-g-47a12a1aa/
+https://www.linkedin.com/in/michal-goldys/
 
 <!---
 michalgoldys/michalgoldys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

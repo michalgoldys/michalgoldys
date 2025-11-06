@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michalgoldys
-- 👀 I'm interested in SysOps/DevOps and networking since my youngest years.
+- 👀 I'm interested in SysOps/DevOps and networking since my youth.
 - 🌱 DevOps Engineer
-- 📫 How to reach me linkedIn:
+- 📫 How to reach me LinkedIn:
 
 https://www.linkedin.com/in/michal-goldys/
 
